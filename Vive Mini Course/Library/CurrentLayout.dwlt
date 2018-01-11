@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -67,10 +67,10 @@ MonoBehaviour:
     y: 0
     width: 799
     height: 891
-  m_MinSize: {x: 232, y: 492}
-  m_MaxSize: {x: 10002, y: 14042}
+  m_MinSize: {x: 232, y: 471}
+  m_MaxSize: {x: 10002, y: 14021}
   vertical: 1
-  controlID: 28
+  controlID: 12
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -92,7 +92,7 @@ MonoBehaviour:
     y: 0
     width: 1280
     height: 941
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &5
 MonoBehaviour:
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 891
-  m_MinSize: {x: 707, y: 492}
-  m_MaxSize: {x: 18002, y: 14042}
+  m_MinSize: {x: 707, y: 471}
+  m_MaxSize: {x: 18002, y: 14021}
   vertical: 0
-  controlID: 27
+  controlID: 11
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,8 +230,8 @@ MonoBehaviour:
     y: 0
     width: 799
     height: 494
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -266,6 +266,7 @@ MonoBehaviour:
     y: 92
     width: 275
     height: 870
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:
@@ -298,6 +299,7 @@ MonoBehaviour:
     y: 92
     width: 705
     height: 436
+  m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -324,6 +326,7 @@ MonoBehaviour:
     y: 92
     width: 754
     height: 1286
+  m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -350,7 +353,8 @@ MonoBehaviour:
     y: 92
     width: 705
     height: 436
-  m_ViewPositions:
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
     m_KeySerializationHelper: []
     m_ValueSerializationHelper: []
   m_PreviewAnimator: {fileID: 0}
@@ -392,6 +396,7 @@ MonoBehaviour:
     y: 92
     width: 741
     height: 447
+  m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -418,11 +423,12 @@ MonoBehaviour:
     y: 92
     width: 200
     height: 870
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 20edfeff
-    m_LastClickedID: -70368
-    m_ExpandedIDs: a4b9feffe2d8feff1cedfeff20edfeff528fffff549dffff42f7ffff00000000
+    m_SelectedIDs: 8e320000
+    m_LastClickedID: 12942
+    m_ExpandedIDs: d0f9ffff000000008e320000a8320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -471,6 +477,7 @@ MonoBehaviour:
     y: 92
     width: 275
     height: 870
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -504,6 +511,7 @@ MonoBehaviour:
     y: 586
     width: 797
     height: 376
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -516,20 +524,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/SteamVR/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 51
   m_LastFolders:
-  - Assets/SteamVR/Prefabs
+  - Assets
   m_LastFoldersGridSize: 51
-  m_LastProjectPath: C:\Users\bucholtz\Documents\Luke\Repos\Unity\unity.tutorials.survivalShooter\Vive
+  m_LastProjectPath: C:\Users\bucholtz\Documents\Luke\Repos\Unity\Independant Study\vive.mini.course\Vive
     Mini Course
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 063c0000
-    m_LastClickedID: 15366
-    m_ExpandedIDs: da290000b23b000000ca9a3bffffff7f
+    m_SelectedIDs: 702f0000
+    m_LastClickedID: 12144
+    m_ExpandedIDs: 00000000702f00004a31000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,7 +565,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000702f00004a310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -584,7 +592,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: ca3b0000ac2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -638,6 +646,7 @@ MonoBehaviour:
     y: 92
     width: 797
     height: 473
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -714,15 +723,16 @@ MonoBehaviour:
     y: 92
     width: 797
     height: 473
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 1670.5270599829462
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.039028406, y: 0.13735247, z: -0.13515544}
+    m_Target: {x: 0.17493725, y: 0.19056153, z: -0.30832148}
     speed: 2
-    m_Value: {x: 0.039028406, y: 0.13735247, z: -0.13515544}
+    m_Value: {x: 0.17493725, y: 0.19056153, z: -0.30832148}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -731,6 +741,7 @@ MonoBehaviour:
     showSkybox: 1
     showFlares: 1
     showImageEffects: 1
+    showParticleSystems: 1
   grid:
     xGrid:
       m_Target: 0
@@ -749,9 +760,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 2.407395
+    m_Target: 3.69489
     speed: 2
-    m_Value: 2.407395
+    m_Value: 3.69489
   m_Ortho:
     m_Target: 0
     speed: 2
