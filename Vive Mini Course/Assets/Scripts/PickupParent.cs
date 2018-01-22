@@ -45,8 +45,8 @@ public class PickupParent : MonoBehaviour {
         {
             Debug.Log("You are holding 'PressUp' the Touchpad");
             sphere.transform.position = Vector3.zero;
-            //sphere.GetComponent<Rigidbody>().velocity = Vector3.zero;
-            //sphere.GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
+            sphere.GetComponent<Rigidbody>().velocity = Vector3.zero;
+            sphere.GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
         }
     }
 
